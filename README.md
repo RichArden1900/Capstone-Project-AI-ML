@@ -1,4 +1,4 @@
-Project for determine buying a gasoline car, hybrid car, or electric car
+Project for determine buying a gasoline car, hybrid car, or electric car from the mpg and the price comparison
 
 Visualization
 ![Type_of_Cars](https://github.com/user-attachments/assets/e1ec3a2d-cc28-4889-8560-32b3eca1cf27)
