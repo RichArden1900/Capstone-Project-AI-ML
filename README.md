@@ -11,4 +11,7 @@ From graph heat map it shows the correlation between each features on the datase
 
 ![Learning_Curve](https://github.com/user-attachments/assets/91d7bf03-5d0d-4db0-8ce0-8a7b9b770742)
 
-From the learning curve graph it state that the training and testing error shows a big score it means that the training and testing show a bad score and a highest error because there is no correlation between fuel type and price 
+From the learning curve graph it state that the training and testing error shows a big score it means that the training and testing show a bad score and a highest error because there is no correlation between fuel type and price
+
+Room for Improvement
+1. Need more feature in the dataset that relevant for the project goals
